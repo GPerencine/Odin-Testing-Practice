@@ -1,3 +1,4 @@
+//capitalize.test.js
 import { capitalize } from "./capitalize.js";
 
 test("Capitalize Strings", () => {
