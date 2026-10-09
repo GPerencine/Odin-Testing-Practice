@@ -1,0 +1,27 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "This project is part of the JavaScript course from **The Odin Project**. In this project, I wrote automated tests for JavaScript utility functions using Jest, practicing test-driven development and validating function behavior through a variety of test cases.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GPerencine/Odin-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GPerencine/Odin-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/GPerencine/Odin-Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^8.0.7",
+    "@babel/preset-env": "^8.0.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
+}
